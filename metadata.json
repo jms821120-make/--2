@@ -1,0 +1,6 @@
+{
+  "name": "끝말잇기 마스터 (Word Chain Master)",
+  "description": "두음법칙과 한방단어 판정, 귀여운 AI 상대와 함께 즐기는 한국어 끝말잇기 미니게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
